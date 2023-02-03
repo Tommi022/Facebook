@@ -1,0 +1,9 @@
+{
+ "Post": [
+   {
+     "autore": "luca",
+     "descrizione": "la vita è bella",
+     "miPiace": 9,
+     "commenti": ["sì","hai ragione"]
+   } 
+}
