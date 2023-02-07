@@ -1,0 +1,19 @@
+{
+ "posts": [
+   {
+    "id": 0,
+     "autore": "luca",
+     "descrizione": "la vita è bella",
+     "miPiace": 9,
+     "commenti": ["sì","hai ragione"]
+   },
+   {
+    "id": 1,
+     "autore": "giacomo",
+     "descrizione": "la vita è brutta",
+     "miPiace": 0,
+     "commenti": ["sì"]
+   }
+  
+ ]
+}
